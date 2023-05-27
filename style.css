@@ -1,0 +1,39 @@
+.intro, .contact, .category, .policy
+{
+transition: all 0.5s ease;
+text-align: center;
+}
+.contact:hover
+{
+background-color: rgb(189, 114, 16);
+font-size: 18px;
+}
+.intro:hover
+{
+background-color: rgb(189, 114, 16);
+font-size: 18px;
+}
+.category:hover
+{
+background-color: rgb(189, 114, 16);
+font-size: 18px;
+}
+.policy:hover
+{
+background-color: rgb(189, 114, 16);
+font-size: 18px;
+}
+.category:hover
+{
+background-color: rgb(189, 114, 16);
+font-size: 18px;
+}
+li
+{
+list-style: none;
+text-align: start;
+}
+.media
+{
+margin-bottom: 10px;
+}
